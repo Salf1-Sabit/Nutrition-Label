@@ -3,7 +3,7 @@
 ![Nutrition Label](https://github.com/Salf1-Sabit/Nutrition-Label/assets/70028517/663ef871-5faa-4123-a682-6ade262ad829)
 
 ## Overview
-Developed as part of the FreeCodeCamp.org Responsive Web Design course, this project focuses on creating a nutrition label. It incorporates CSS concepts including Typography, Flexbox, Class Reusability, Pseudo Selectors, and Text Indentation to design a responsive and styled nutrition label.
+Developed as part of the FreeCodeCamp.org Responsive Web Design course, this project focuses on creating a nutrition label. It incorporates CSS concepts including Typography, Flexbox, Class Reusability, Pseudo Selectors, and Text Indentation to design styled nutrition label.
 
 ## Learning Focus
 - **CSS Typography**: Applied typography styles for improved text presentation.
